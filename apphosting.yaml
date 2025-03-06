@@ -1,0 +1,3 @@
+env:
+  - variable: NEXT_PUBLIC_APP_PATH
+    secret: https://api.open-meteo.com/v1
